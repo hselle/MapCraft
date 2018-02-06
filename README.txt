@@ -1,4 +1,6 @@
 README.txt
+Requirements:
+Python 2.7.1, Pyglet(python module)
 
 MapCraft
 By Harrison Selle and Nick Crews

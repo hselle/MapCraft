@@ -12,7 +12,7 @@ the version of minecraft which dynamically loades elevation data from SRTM datas
 elevation.py:
 Used by maindynamic to get the elevation data
 
-heightmapmain.py:
+mainheightmap.py:
 the verion of minecraft whic loads a txt worldfile, probably generated from a heightmap image by heightmap.py
 
 heightmap.py:

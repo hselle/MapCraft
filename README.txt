@@ -1,6 +1,7 @@
 README.txt
 Requirements:
 Python 2.7.1, Pyglet(python module)
+Known Issues: maindynamic not currently functioning due to "bad zip file" error
 
 MapCraft
 By Harrison Selle and Nick Crews

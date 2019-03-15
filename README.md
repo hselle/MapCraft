@@ -12,7 +12,12 @@ Python 2.7.1, Windows or Linux machine.
 
 ## Usage
 `python heightmap.py <input.jpg> <output.txt> <max-height> <total-blocks>`
+
 `python mainheightmap.py <output.txt>`
+
+OR
+
+`python maindynamic.py`
 ## Package Contents:
 
 **mainheightmap.py:**
